@@ -1,5 +1,11 @@
+/*
 function getHello(){
     return 'Hello to you';
 }
-
-module.exports = getHello();
+*/
+let laptops = [
+  {name: 'Dell'},
+  {name: 'Apple'},
+  {name: 'Acer'}
+];
+module.exports = laptops;
