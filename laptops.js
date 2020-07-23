@@ -1,1 +1,5 @@
-module.exports = 'Good Night';
+function getHello(){
+    return 'Hello to you';
+}
+
+module.exports = getHello();
