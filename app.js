@@ -1,1 +1,1 @@
-alert('Good Evening');
+alert(require('./laptops.js'));
